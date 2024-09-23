@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Adnan](https://adnan11.netlify.app/) .
+- 👋 Hi, I’m  [Adnan](https://adnan11.netlify.app/) .
 - 🤫 About me 👆 
 - 👀 I like to solve problems and making things more beautiful 
 - 🌱 I’m currently learning ***Software Development***
