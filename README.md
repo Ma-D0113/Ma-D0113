@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on web designs.
 - 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😄 Pronouns: Ma D
 - ⚡ Fun fact: ...
 
 <!---
