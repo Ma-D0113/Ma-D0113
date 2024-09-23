@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="coding gif" width="200"/>
 </p>
 
-🤫 **About Me** 👆  
+🤫 All about me -> [My Profile](https://adnan11.netlify.app/)  
 👀 **I like to solve problems and make things more beautiful**  
 🌱 **Currently learning**: Software Development, React, Node.js  
 💞️ **Looking to collaborate on**: Web designs, frontend development  
-📫 **How to reach me**: adnan@example.com  
+📫 **How to reach me**: adnan7889393853@gmail.com  
 😄 **Pronouns**: Ma D  
 ⚡ **Fun fact**: I can code and cook at the same time! 🍳💻
 
